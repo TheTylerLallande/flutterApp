@@ -1,4 +1,4 @@
-# Inert Button App
+# Insert Button App
 
 A minimal Flutter app containing a single enabled button. Its callback is intentionally empty.
 
